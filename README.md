@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# MEMORIA — Decision Intelligence \& Risk Analytics
 
 
@@ -170,3 +171,6 @@ MEMORIA
 
 └── README.md
 
+=======
+# MEMORIA
+>>>>>>> 7c008138c61aa85eae8d64c9b4c419929900bd64
