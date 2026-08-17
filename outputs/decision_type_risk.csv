@@ -1,0 +1,11 @@
+decision_type,high_risk_decisions,avg_score,min_score,max_score
+Process Change,164,44.6,40,55
+Product Launch,156,44.94,40,55
+Pricing,155,44.58,40,65
+Vendor Selection,154,45.23,40,65
+Technology,152,44.28,40,65
+Hiring,150,44.8,40,65
+Investment,148,45.3,40,65
+Policy Change,138,45.07,40,65
+Strategic Initiative,133,44.96,40,55
+Capacity Planning,132,44.62,40,65

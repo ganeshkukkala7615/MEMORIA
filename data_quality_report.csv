@@ -1,0 +1,32 @@
+check_name,table_name,check_date,records_checked,records_failed,failure_rate,severity,details
+Primary Key Uniqueness,departments,2026-08-15 01:47:04.001470,15,0,0.0,PASS,Key: department_id
+Primary Key Uniqueness,employees,2026-08-15 01:47:04.017774,10000,0,0.0,PASS,Key: employee_id
+Primary Key Uniqueness,decisions,2026-08-15 01:47:04.045963,20000,0,0.0,PASS,Key: decision_id
+Primary Key Uniqueness,assumptions,2026-08-15 01:47:04.133513,40066,0,0.0,PASS,Key: assumption_id
+Primary Key Uniqueness,initiatives,2026-08-15 01:47:04.148914,10000,0,0.0,PASS,Key: initiative_id
+Primary Key Uniqueness,experiments,2026-08-15 01:47:04.157374,5000,0,0.0,PASS,Key: experiment_id
+Primary Key Uniqueness,outcomes,2026-08-15 01:47:04.232088,39970,0,0.0,PASS,Key: outcome_id
+Primary Key Uniqueness,incidents,2026-08-15 01:47:04.310096,50000,0,0.0,PASS,Key: incident_id
+Primary Key Uniqueness,lessons,2026-08-15 01:47:04.347156,30000,0,0.0,PASS,Key: lesson_id
+Primary Key Uniqueness,actions,2026-08-15 01:47:04.374303,23962,0,0.0,PASS,Key: action_id
+Primary Key Uniqueness,recurrence_events,2026-08-15 01:47:04.408372,21044,0,0.0,PASS,Key: recurrence_id
+Required Field Completeness,departments,2026-08-15 01:47:04.415330,15,0,0.0,PASS,"department_id, department_name, business_unit"
+Required Field Completeness,employees,2026-08-15 01:47:04.462600,10000,0,0.0,PASS,"employee_id, department_id, employee_name"
+Required Field Completeness,decisions,2026-08-15 01:47:04.505715,20000,0,0.0,PASS,"decision_id, department_id, decision_title"
+Required Field Completeness,assumptions,2026-08-15 01:47:04.586455,40066,0,0.0,PASS,"assumption_id, decision_id, assumption_text"
+Required Field Completeness,initiatives,2026-08-15 01:47:04.610785,10000,0,0.0,PASS,"initiative_id, decision_id, initiative_name"
+Required Field Completeness,incidents,2026-08-15 01:47:04.752458,50000,0,0.0,PASS,"incident_id, department_id, incident_title"
+Required Field Completeness,lessons,2026-08-15 01:47:04.806990,30000,0,0.0,PASS,"lesson_id, lesson_title"
+Required Field Completeness,actions,2026-08-15 01:47:04.864148,23962,0,0.0,PASS,"action_id, lesson_id, action_description"
+Employee Department Relationship,employees,2026-08-15 01:47:04.869367,10000,0,0.0,PASS,employees.department_id → departments.department_id
+Decision Owner Relationship,decisions,2026-08-15 01:47:04.884229,20000,0,0.0,PASS,decision_owner_id → employees.employee_id
+Assumption Decision Relationship,assumptions,2026-08-15 01:47:04.897392,40066,0,0.0,PASS,assumption.decision_id → decisions.decision_id
+Incident Department Relationship,incidents,2026-08-15 01:47:04.917482,50000,0,0.0,PASS,incident.department_id → departments.department_id
+Lesson Incident Relationship,lessons,2026-08-15 01:47:05.139493,30000,0,0.0,PASS,lesson.incident_id → incidents.incident_id
+Action Lesson Relationship,actions,2026-08-15 01:47:05.151727,23962,0,0.0,PASS,action.lesson_id → lessons.lesson_id
+Confidence Range,assumptions,2026-08-15 01:47:05.161610,40066,0,0.0,PASS,confidence_level must be between 0 and 1
+P-Value Range,experiments,2026-08-15 01:47:05.164187,5000,0,0.0,PASS,p_value must be between 0 and 1
+Initiative Date Consistency,initiatives,2026-08-15 01:47:05.167804,10000,0,0.0,PASS,end_date must be >= start_date
+Outcome Financial Validity,outcomes,2026-08-15 01:47:05.199911,39970,0,0.0,PASS,Expected and actual values should be non-negative
+Assumption Variance Consistency,assumptions,2026-08-15 01:47:05.218741,40066,0,0.0,PASS,Stored variance must match expected vs actual
+Outcome Variance Consistency,outcomes,2026-08-15 01:47:05.234625,39970,0,0.0,PASS,Stored variance must match expected vs actual

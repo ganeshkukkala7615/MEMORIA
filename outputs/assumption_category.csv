@@ -1,0 +1,9 @@
+assumption_category,assumptions,failed_assumptions,failure_rate_pct,avg_variance_pct,avg_confidence,avg_risk_score
+Resource,2418,216,8.93,-5.16,0.77,29.47
+Market,2517,220,8.74,-4.51,0.77,29.28
+Technology,2442,211,8.64,-5.07,0.77,29.57
+Customer Behavior,2604,222,8.53,-5.08,0.76,29.17
+Demand,2497,201,8.05,-4.8,0.77,29.57
+Operational,2477,197,7.95,-4.4,0.76,29.17
+Cost,2596,205,7.9,-4.89,0.77,29.33
+Timeline,2636,206,7.81,-4.11,0.77,29.21

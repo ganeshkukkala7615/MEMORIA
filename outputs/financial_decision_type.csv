@@ -1,0 +1,11 @@
+decision_type,high_risk_decisions,total_financial_impact,avg_financial_impact,avg_risk_score,min_score,max_score
+Process Change,285,-5299664.67,-18595.31,43.74,40,55
+Technology,277,-4041611.83,-14590.66,43.61,40,65
+Pricing,298,-3907555.01,-13112.6,43.69,40,65
+Vendor Selection,274,-3721189.84,-13580.98,44.69,40,65
+Investment,270,-3582003.39,-13266.68,44.89,40,65
+Capacity Planning,249,-3537263.77,-14205.88,44.38,40,65
+Hiring,275,-3411996.61,-12407.26,44.09,40,65
+Product Launch,293,-3383504.31,-11547.8,43.98,40,55
+Strategic Initiative,243,-2918212.72,-12009.11,44.22,40,55
+Policy Change,229,-1996783.9,-8719.58,44.54,40,65

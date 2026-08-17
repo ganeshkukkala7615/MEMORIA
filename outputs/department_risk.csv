@@ -1,0 +1,16 @@
+department_name,high_risk_decisions,avg_score,min_score,max_score
+Operations,208,46.01,40,65
+Marketing,185,44.65,40,65
+Procurement,179,45.81,40,65
+Technology,88,43.92,40,55
+Customer Experience,88,43.86,40,55
+Strategy,83,44.52,40,55
+Risk,80,44.69,40,55
+Finance,79,45.0,40,55
+Quality,77,44.22,40,55
+Sales,75,44.73,40,55
+Legal,72,43.61,40,55
+Research,68,44.85,40,55
+Product,68,44.04,40,55
+Human Resources,67,44.63,40,55
+Data & Analytics,65,45.08,40,55

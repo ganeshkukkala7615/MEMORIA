@@ -1,0 +1,4 @@
+risk_band,decisions,avg_score,min_score,max_score
+High,1482,44.83,40,65
+Medium,2165,31.04,30,35
+Low,1336,20.0,20,20

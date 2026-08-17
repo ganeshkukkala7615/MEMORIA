@@ -1,0 +1,151 @@
+department_name,decision_type,high_risk_decisions,failed_outcomes,failure_rate_pct,avg_risk_score,total_financial_impact,avg_financial_impact
+Procurement,Vendor Selection,58,48,82.76,46.81,-1316945.21,-22705.95
+Operations,Technology,44,29,65.91,47.5,-1269761.01,-28858.2
+Sales,Strategic Initiative,27,26,96.3,44.07,-1193803.07,-44214.93
+Operations,Hiring,65,41,63.08,44.46,-1129298.59,-17373.82
+Risk,Hiring,24,22,91.67,43.75,-1052698.45,-43862.44
+Human Resources,Strategic Initiative,30,19,63.33,43.17,-949076.91,-31635.9
+Procurement,Hiring,57,39,68.42,44.47,-944812.93,-16575.67
+Technology,Investment,31,28,90.32,45.16,-938328.63,-30268.67
+Strategy,Pricing,31,25,80.65,43.71,-932794.98,-30090.16
+Procurement,Policy Change,57,38,66.67,45.35,-914075.96,-16036.42
+Quality,Policy Change,20,17,85.0,42.0,-892165.22,-44608.26
+Research,Process Change,20,19,95.0,44.25,-847525.8,-42376.29
+Marketing,Capacity Planning,38,26,68.42,46.84,-844279.54,-22217.88
+Risk,Vendor Selection,29,25,86.21,41.03,-829295.68,-28596.4
+Quality,Vendor Selection,36,32,88.89,43.19,-824387.56,-22899.65
+Operations,Policy Change,55,39,70.91,46.36,-797366.96,-14497.58
+Technology,Technology,28,18,64.29,42.14,-770969.68,-27534.63
+Procurement,Capacity Planning,34,21,61.76,45.59,-765764.58,-22522.49
+Human Resources,Process Change,21,16,76.19,42.86,-722136.9,-34387.47
+Procurement,Strategic Initiative,38,28,73.68,44.21,-717214.74,-18874.07
+Procurement,Technology,68,39,57.35,45.07,-716199.95,-10532.35
+Sales,Process Change,20,17,85.0,45.0,-704283.27,-35214.16
+Operations,Pricing,55,31,56.36,44.91,-687855.13,-12506.46
+Customer Experience,Process Change,21,19,90.48,45.0,-661885.45,-31518.35
+Research,Policy Change,26,20,76.92,41.15,-650206.57,-25007.94
+Operations,Process Change,50,29,58.0,42.6,-647454.53,-12949.09
+Risk,Policy Change,23,20,86.96,43.91,-647368.29,-28146.45
+Procurement,Process Change,52,37,71.15,44.9,-634350.98,-12199.06
+Risk,Technology,25,18,72.0,43.8,-633024.24,-25320.97
+Research,Technology,24,20,83.33,43.75,-627629.89,-26151.25
+Customer Experience,Hiring,35,27,77.14,43.43,-597621.45,-17074.9
+Procurement,Product Launch,43,28,65.12,45.12,-591485.68,-13755.48
+Risk,Product Launch,25,22,88.0,43.8,-586617.42,-23464.7
+Data & Analytics,Pricing,17,14,82.35,42.35,-585230.9,-34425.35
+Strategy,Investment,19,18,94.74,45.0,-580793.26,-30568.07
+Strategy,Hiring,23,22,95.65,44.35,-574760.21,-24989.57
+Procurement,Investment,42,26,61.9,45.6,-573492.19,-13654.58
+Strategy,Technology,25,22,88.0,41.6,-561258.57,-22450.34
+Marketing,Investment,47,25,53.19,43.83,-561016.28,-11936.52
+Product,Product Launch,24,20,83.33,43.33,-558275.18,-23261.47
+Quality,Product Launch,34,30,88.24,43.82,-554107.44,-16297.28
+Operations,Investment,59,38,64.41,46.53,-553875.0,-9387.71
+Quality,Capacity Planning,29,29,100.0,45.34,-551617.39,-19021.29
+Technology,Pricing,27,21,77.78,41.3,-551195.99,-20414.67
+Product,Capacity Planning,26,25,96.15,43.85,-547192.91,-21045.88
+Legal,Capacity Planning,22,19,86.36,43.41,-545357.46,-24788.98
+Strategy,Vendor Selection,28,25,89.29,44.29,-544529.85,-19447.49
+Data & Analytics,Hiring,24,21,87.5,42.71,-543167.04,-22631.96
+Operations,Vendor Selection,63,38,60.32,43.73,-542362.38,-8608.93
+Sales,Technology,21,17,80.95,43.57,-530822.42,-25277.26
+Customer Experience,Strategic Initiative,22,17,77.27,40.91,-516509.21,-23477.69
+Technology,Capacity Planning,31,27,87.1,43.06,-508526.89,-16404.09
+Finance,Product Launch,32,23,71.88,42.81,-497083.79,-15533.87
+Research,Capacity Planning,17,15,88.24,43.82,-494976.88,-29116.29
+Quality,Strategic Initiative,28,27,96.43,42.86,-494537.99,-17662.07
+Marketing,Process Change,55,31,56.36,44.0,-486405.81,-8843.74
+Human Resources,Pricing,25,22,88.0,41.8,-485265.47,-19410.62
+Quality,Process Change,16,14,87.5,42.5,-485263.64,-30328.98
+Customer Experience,Product Launch,24,16,66.67,43.54,-484993.64,-20208.07
+Human Resources,Hiring,17,15,88.24,41.47,-477476.01,-28086.82
+Marketing,Vendor Selection,34,26,76.47,48.09,-475538.09,-13986.41
+Data & Analytics,Technology,26,21,80.77,41.73,-470105.94,-18081.0
+Product,Process Change,25,22,88.0,42.4,-465551.94,-18622.08
+Marketing,Strategic Initiative,43,22,51.16,42.79,-463388.74,-10776.48
+Marketing,Hiring,60,39,65.0,43.58,-450949.48,-7515.82
+Finance,Capacity Planning,21,14,66.67,42.38,-450268.46,-21441.36
+Marketing,Product Launch,62,31,50.0,42.82,-440245.22,-7100.73
+Operations,Product Launch,60,39,65.0,45.92,-438751.53,-7312.53
+Finance,Technology,31,26,83.87,41.94,-437212.58,-14103.63
+Procurement,Pricing,55,29,52.73,44.45,-437151.75,-7948.21
+Legal,Pricing,26,23,88.46,41.92,-428039.96,-16463.08
+Finance,Process Change,27,27,100.0,44.44,-423480.06,-15684.45
+Quality,Technology,23,18,78.26,41.74,-422417.96,-18366.0
+Risk,Process Change,25,21,84.0,44.0,-394580.92,-15783.24
+Legal,Technology,17,13,76.47,41.47,-394451.25,-23203.01
+Finance,Investment,26,23,88.46,45.0,-393681.66,-15141.6
+Technology,Process Change,31,21,67.74,42.26,-391822.94,-12639.45
+Customer Experience,Pricing,21,19,90.48,41.19,-378771.12,-18036.72
+Legal,Vendor Selection,15,14,93.33,45.67,-365673.68,-24378.25
+Sales,Vendor Selection,16,14,87.5,44.38,-360599.13,-22537.45
+Human Resources,Policy Change,20,14,70.0,42.25,-359718.34,-17985.92
+Product,Technology,15,12,80.0,41.67,-353174.46,-23544.96
+Human Resources,Technology,19,18,94.74,42.37,-346717.67,-18248.3
+Marketing,Pricing,56,29,51.79,43.39,-343258.0,-6129.61
+Customer Experience,Technology,23,13,56.52,42.17,-341124.61,-14831.5
+Legal,Policy Change,32,25,78.13,42.81,-340522.26,-10641.32
+Data & Analytics,Process Change,11,11,100.0,43.64,-338736.58,-30794.23
+Legal,Strategic Initiative,24,20,83.33,41.88,-331564.23,-13815.18
+Data & Analytics,Vendor Selection,19,16,84.21,42.11,-319700.04,-16826.32
+Risk,Pricing,26,22,84.62,42.12,-319018.75,-12269.95
+Quality,Hiring,19,15,78.95,41.84,-311687.84,-16404.62
+Research,Product Launch,23,20,86.96,44.35,-305232.27,-13270.97
+Product,Strategic Initiative,23,20,86.96,43.04,-303682.0,-13203.57
+Operations,Capacity Planning,46,24,52.17,44.78,-298084.2,-6480.09
+Risk,Investment,23,18,78.26,43.04,-294651.06,-12810.92
+Risk,Strategic Initiative,14,12,85.71,44.29,-286771.81,-20483.7
+Marketing,Policy Change,37,22,59.46,43.92,-281215.21,-7600.41
+Quality,Investment,19,19,100.0,44.47,-281088.7,-14794.14
+Research,Hiring,17,16,94.12,42.65,-280948.66,-16526.39
+Human Resources,Investment,13,11,84.62,43.46,-280579.69,-21583.05
+Finance,Pricing,22,13,59.09,42.27,-275487.9,-12522.18
+Sales,Product Launch,26,18,69.23,41.35,-273959.92,-10536.92
+Strategy,Process Change,24,19,79.17,40.63,-264847.24,-11035.3
+Legal,Process Change,17,11,64.71,41.47,-264276.37,-15545.67
+Operations,Strategic Initiative,27,22,81.48,47.04,-261575.3,-9687.97
+Legal,Hiring,14,13,92.86,42.5,-259289.28,-18520.66
+Technology,Strategic Initiative,22,18,81.82,43.64,-257707.84,-11713.99
+Strategy,Capacity Planning,24,17,70.83,43.33,-256897.82,-10704.08
+Product,Pricing,21,16,76.19,42.62,-244095.66,-11623.6
+Product,Hiring,24,22,91.67,43.13,-242808.93,-10117.04
+Research,Strategic Initiative,14,12,85.71,43.21,-235679.63,-16834.26
+Product,Vendor Selection,19,12,63.16,40.53,-232582.21,-12241.17
+Sales,Policy Change,13,12,92.31,41.54,-232568.38,-17889.88
+Technology,Vendor Selection,20,20,100.0,45.5,-231738.8,-11586.94
+Human Resources,Product Launch,18,15,83.33,44.72,-231390.91,-12855.05
+Sales,Investment,18,16,88.89,44.44,-226709.25,-12594.96
+Strategy,Product Launch,22,20,90.91,42.95,-221576.49,-10071.66
+Sales,Hiring,21,15,71.43,43.81,-218346.97,-10397.47
+Sales,Capacity Planning,17,13,76.47,42.06,-217977.0,-12822.18
+Customer Experience,Investment,17,12,70.59,42.06,-211317.11,-12430.42
+Technology,Product Launch,11,8,72.73,41.36,-207196.98,-18836.09
+Data & Analytics,Strategic Initiative,16,14,87.5,45.31,-204676.56,-12792.28
+Human Resources,Vendor Selection,16,14,87.5,43.75,-204400.61,-12775.04
+Research,Vendor Selection,12,12,100.0,47.5,-196989.31,-16415.78
+Sales,Pricing,17,15,88.24,43.82,-193747.2,-11396.89
+Customer Experience,Vendor Selection,26,21,80.77,41.54,-185376.91,-7129.88
+Technology,Hiring,16,13,81.25,43.13,-185026.62,-11564.16
+Strategy,Policy Change,12,8,66.67,42.08,-184466.52,-15372.21
+Finance,Hiring,15,14,93.33,45.33,-179559.8,-11970.65
+Human Resources,Capacity Planning,11,10,90.91,42.27,-172824.79,-15711.34
+Data & Analytics,Investment,24,20,83.33,43.33,-170042.52,-7085.1
+Product,Policy Change,15,13,86.67,44.0,-168276.53,-11218.44
+Marketing,Technology,36,16,44.44,42.36,-162972.13,-4527.0
+Finance,Vendor Selection,14,13,92.86,43.93,-158944.19,-11353.16
+Data & Analytics,Policy Change,20,15,75.0,44.0,-151619.13,-7580.96
+Data & Analytics,Product Launch,13,13,100.0,47.31,-146004.57,-11231.12
+Customer Experience,Policy Change,23,17,73.91,43.91,-140753.41,-6119.71
+Finance,Strategic Initiative,12,11,91.67,41.67,-135800.78,-11316.73
+Customer Experience,Capacity Planning,24,13,54.17,41.46,-131491.72,-5478.82
+Research,Pricing,12,9,75.0,43.75,-125332.6,-10444.38
+Strategy,Strategic Initiative,27,19,70.37,40.93,-125129.78,-4634.44
+Research,Investment,12,7,58.33,41.67,-111254.65,-9271.22
+Data & Analytics,Capacity Planning,11,10,90.91,40.91,-109206.47,-9927.86
+Technology,Policy Change,9,6,66.67,43.89,-107096.84,-11899.65
+Risk,Capacity Planning,8,6,75.0,45.0,-106731.49,-13341.44
+Quality,Pricing,12,7,58.33,42.92,-104083.29,-8673.61
+Product,Investment,7,6,85.71,42.14,-92358.86,-13194.12
+Legal,Investment,10,7,70.0,42.5,-83558.57,-8355.86
+Finance,Policy Change,20,17,85.0,42.0,5241.79,262.09
+Legal,Product Launch,12,8,66.67,42.08,28684.79,2390.4
